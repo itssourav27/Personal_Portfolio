@@ -23,7 +23,7 @@ It highlights my projects, skills, experience, and also features a blog section 
 
 ## 📸 Preview
 
-![Portfolio Screenshot](assets/preview.png)
+![Portfolio Screenshot](C:\Users\SOURAV CHOUDHARY\OneDrive\Desktop\Portfolio\assets\brave_screenshot_itssourav27.github.io.png)
 
 ## 🔮 Future Enhancements
 
