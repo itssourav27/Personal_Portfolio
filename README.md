@@ -23,7 +23,7 @@ It highlights my projects, skills, experience, and also features a blog section 
 
 ## 📸 Preview
 
-![Portfolio Screenshot](assets\brave_screenshot_itssourav27.github.io.png)
+![Portfolio Screenshot](assets/brave_screenshot_itssourav27.github.io.png)
 
 ## 🔮 Future Enhancements
 
