@@ -22,7 +22,7 @@ It highlights my projects, skills, and experience.
 
 ## 📸 Preview
 
-
+![Portfolio Screenshot](assets/brave_screenshot_itssourav27.github.io.png)
 
 ## 🔮 Future Enhancements
 
